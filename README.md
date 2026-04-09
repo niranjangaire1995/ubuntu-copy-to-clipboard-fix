@@ -2,6 +2,8 @@
 Fix for Ubuntu copy to clipboard not working
 
 No Bs straight to the point. Install Guest Edition CD that will fix the issue.
+
+HOW TO KNOW IF THE GUEST EDITION IS INSTALLED ????   If the vm screen is full it is installed , if the size of screen is not full you need to install it.
 1. sudo apt update               //this command gives the list of upgradables.
 2. <img width="849" height="358" alt="Screenshot 2026-04-08 214520" src="https://github.com/user-attachments/assets/10039752-2632-488c-93d2-2810a2a02a4c" />
 
