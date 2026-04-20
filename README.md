@@ -8,8 +8,9 @@ HOW TO KNOW IF THE GUEST EDITION IS INSTALLED ????   If the vm screen is full it
 2. <img width="849" height="358" alt="Screenshot 2026-04-08 214520" src="https://github.com/user-attachments/assets/10039752-2632-488c-93d2-2810a2a02a4c" />
 
 3. sudo apt install build-essential dkms linux-headers-$(uname -r)     #This installs required files
-4. VM Top Bar -> Devies -> Insert Guest additions CD Image -> You will see the CD icon 
-5. <img width="209" height="547" alt="image" src="https://github.com/user-attachments/assets/aa14d206-72a8-4435-ae45-1016cb755cf0" />
+4. installs this: sudo apt install bzip2 -y                #this is needed to unzip the guest edition file
+5. VM Top Bar -> Devies -> Insert Guest additions CD Image -> You will see the CD icon 
+6. <img width="209" height="547" alt="image" src="https://github.com/user-attachments/assets/aa14d206-72a8-4435-ae45-1016cb755cf0" />
 Make sure this is also enabled -> bidirectional.
 <img width="667" height="420" alt="image" src="https://github.com/user-attachments/assets/ed1c278f-2798-4a0a-a57e-af6300eed33b" />
 
